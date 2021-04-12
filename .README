@@ -1,0 +1,12 @@
+Installed components
+
+yarn create next-app nomedoapp
+yarn add typescript @types/react @types/node -D
+yarn dev
+yarn add eslint -D
+yarn eslint --init
+yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+yarn add styled-components -D
+yarn add @types/styled-components -D
+yarn add next-images -D
+yarn add babel-plugin-inline-react-svg -D
